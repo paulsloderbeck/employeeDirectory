@@ -6,7 +6,7 @@ function Jumbotron() {
       <div class="container">
         <h1 class="display-4">Employee Directory</h1>
         <p class="lead">
-          This is an application that allows you to search through your employee
+          This is an application that allows you to sort through your employee
           list.
         </p>
       </div>
