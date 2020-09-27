@@ -6,4 +6,4 @@ The buttons at the top allow the user to sort the results by name and age in asc
 
 Check it out at https://paulsloderbeck.github.io/employeeDirectory/
 
-![ScreenShot](https://github.com/paulsloderbeck/employeeDirectory/blob/master/screenshot.png)
+![ScreenShot](https://github.com/paulsloderbeck/employeeDirectory/blob/master/ScreenShot.png)
